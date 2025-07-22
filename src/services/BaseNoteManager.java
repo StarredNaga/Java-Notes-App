@@ -15,7 +15,7 @@ public class BaseNoteManager implements NotesManager {
 
     public BaseNoteManager(){
 
-        fileService = new BaseNotesFileService("C:\\Users\\StarredNaga\\Desktop\\App.json");
+        fileService = new BaseNotesFileService("App.json");
 
         notes = new ArrayList<>();
     }
