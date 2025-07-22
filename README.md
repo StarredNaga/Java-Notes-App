@@ -25,7 +25,9 @@ My first console-based note management application built with Java.
 
 ## Interface Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=Console+Interface+Example)
+![App Screenshot](https://github.com/StarredNaga/Java-Notes-App/blob/main/Images/StartScreen.png)
+![App Screenshot](https://github.com/StarredNaga/Java-Notes-App/blob/main/Images/GetNotesScreen.png)
+![App Screenshot](https://github.com/StarredNaga/Java-Notes-App/blob/main/Images/NotesScreen.png)
 
 ## Usage
 
